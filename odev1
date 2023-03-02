@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title> Ödev </title>
+</head>
+
+<body>
+    <h1> EMRAH KÖKSAL </h1>
+    <!--Adımı ve soyadımı başlık şeklinde yazdım -->
+    <h3> Hakkımda </h3>
+    <!-- Hakkımda adında bir alt başlık ekledim -->
+    <p>
+        Merhaba ben emrah. Film izlemek ve dizi izlemeyi severim. Kitap okumaktan hoşlanırım. Tanıştığıma memnun oldum
+    </p>
+    <!--kendimi tanıttım.:) -->
+</body>
+
+</html>
